@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     version="1.2"
+     baseProfile="tiny-ps"
+     viewBox="0 0 100 100">
+
+  <!-- Accessibility -->
+  <title>CourtneyWEB</title>
+  <desc>Where Tech Meets Trust</desc>
+
+  <!-- Transparent canvas: no background shapes -->
+
+  <!-- Stylized "C" -->
+  <path d="M50 22
+           A28 28 0 1 0 50 78"
+        fill="none" stroke="#0D47A1" stroke-width="8" stroke-linecap="round"/>
+
+  <!-- Stylized "W" -->
+  <path d="M33 44
+           L41 62
+           L50 44
+           L59 62
+           L67 44"
+        fill="none" stroke="#00D3A7" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+
+</svg>
